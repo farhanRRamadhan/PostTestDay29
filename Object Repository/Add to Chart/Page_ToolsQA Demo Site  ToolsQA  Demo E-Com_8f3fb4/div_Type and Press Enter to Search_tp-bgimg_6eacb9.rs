@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Type and Press Enter to Search_tp-bgimg_6eacb9</name>
+   <tag></tag>
+   <elementGuidId>567d9a71-69f4-460e-b08f-48e796839c45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rev_slider_4_1']/ul/li/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a587e12-a0ad-465d-91cb-464ef97ea8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tp-bgimg defaultimg </value>
+      <webElementGuid>10c524b0-7527-444a-9eb6-b09880de134a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bgcolor</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>a2c0f701-2ac3-4bb6-bfd0-6bb3b8644954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://lakshays.sg-host.com/wp-content/uploads/revslider/home_slider_5/bg-slider5.jpg</value>
+      <webElementGuid>8ee9e6d3-0314-497e-ab50-ae41ead12f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rev_slider_4_1&quot;)/ul[@class=&quot;tp-revslider-mainul&quot;]/li[@class=&quot;tp-revslider-slidesli active-revslide&quot;]/div[@class=&quot;slotholder&quot;]/div[@class=&quot;tp-bgimg defaultimg&quot;]</value>
+      <webElementGuid>d3272e03-d6de-43c3-b23f-1e29db47a8e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rev_slider_4_1']/ul/li/div/div</value>
+      <webElementGuid>0d10bb35-33d7-455d-8011-49115f7991cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li/div/div</value>
+      <webElementGuid>28460ac0-de01-4944-af11-366d68a5fab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@src = 'https://lakshays.sg-host.com/wp-content/uploads/revslider/home_slider_5/bg-slider5.jpg']</value>
+      <webElementGuid>7ef6bb60-4c76-47cd-9ccf-a9b18972db59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
